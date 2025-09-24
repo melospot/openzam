@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Central",
+      "code": "01",
+      "districts": [
+        {"name": "Chibombo", "code": "0101"},
+        {"name": "Chisamba", "code": "0102"}
+      ]
+    },
+    {
+      "name": "Copperbelt",
+      "code": "02",
+      "districts": [
+        {"name": "Chililabombwe", "code": "0201"},
+        {"name": "Kitwe", "code": "0202"}
+      ]
+    }
+  ]
+  
