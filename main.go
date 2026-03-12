@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/melospot/openzam-api/routes"
+	"github.com/melospot/openzam/routes"
 )
 
 func main() {

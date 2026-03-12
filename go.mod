@@ -1,4 +1,4 @@
-module github.com/melospot/openzam-api
+module github.com/melospot/openzam
 
 go 1.25.1
 
