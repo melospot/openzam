@@ -1,18 +1,178 @@
 [
     {
-      "name": "Central",
+      "name": "Central Province",
       "code": "01",
       "districts": [
         {"name": "Chibombo", "code": "0101"},
-        {"name": "Chisamba", "code": "0102"}
+        {"name": "Chisamba", "code": "0102"},
+        {"name": "Chitambo", "code": "0103"},
+        {"name": "Kabwe", "code": "0104"},
+        {"name": "Kapiri Mposhi", "code": "0105"},
+        {"name": "Luano", "code": "0106"},
+        {"name": "Mkushi", "code": "0107"},
+        {"name": "Mumbwa", "code": "0108"},
+        {"name": "Ngabwe", "code": "0109"},
+        {"name": "Serenje", "code": "0110"},
+        {"name": "Shibuyunji", "code": "0111"}
       ]
     },
     {
-      "name": "Copperbelt",
+      "name": "Copperbelt Province",
       "code": "02",
       "districts": [
         {"name": "Chililabombwe", "code": "0201"},
-        {"name": "Kitwe", "code": "0202"}
+        {"name": "Chingola", "code": "0202"},
+        {"name": "Kalulushi", "code": "0203"},
+        {"name": "Kitwe", "code": "0204"},
+        {"name": "Luanshya", "code": "0205"},
+        {"name": "Lufwanyama", "code": "0206"},
+        {"name": "Masaiti", "code": "0207"},
+        {"name": "Mpongwe", "code": "0208"},
+        {"name": "Mufulira", "code": "0209"},
+        {"name": "Ndola", "code": "0210"}
+      ]
+    },
+    {
+      "name": "Eastern Province",
+      "code": "03",
+      "districts": [
+        {"name": "Chadiza", "code": "0301"},
+        {"name": "Chama", "code": "0302"},
+        {"name": "Chasefu", "code": "0303"},
+        {"name": "Chipangali", "code": "0304"},
+        {"name": "Chipata", "code": "0305"},
+        {"name": "Kasenengwa", "code": "0306"},
+        {"name": "Katete", "code": "0307"},
+        {"name": "Lumezi", "code": "0308"},
+        {"name": "Lundazi", "code": "0309"},
+        {"name": "Lusangazi", "code": "0310"},
+        {"name": "Mambwe", "code": "0311"},
+        {"name": "Nyimba", "code": "0312"},
+        {"name": "Petauke", "code": "0313"},
+        {"name": "Sinda", "code": "0314"},
+        {"name": "Vubwi", "code": "0315"}
+      ]
+    },
+    {
+      "name": "Luapula Province",
+      "code": "04",
+      "districts": [
+        {"name": "Chembe", "code": "0401"},
+        {"name": "Chiengi", "code": "0402"},
+        {"name": "Chifunabuli", "code": "0403"},
+        {"name": "Chipili", "code": "0404"},
+        {"name": "Kawambwa", "code": "0405"},
+        {"name": "Lunga", "code": "0406"},
+        {"name": "Mansa", "code": "0407"},
+        {"name": "Milenge", "code": "0408"},
+        {"name": "Mwansabombwe", "code": "0409"},
+        {"name": "Mwense", "code": "0410"},
+        {"name": "Nchelenge", "code": "0411"},
+        {"name": "Samfya", "code": "0412"}
+      ]
+    },
+    {
+      "name": "Lusaka Province",
+      "code": "05",
+      "districts": [
+        {"name": "Chilanga", "code": "0501"},
+        {"name": "Chongwe", "code": "0502"},
+        {"name": "Kafue", "code": "0503"},
+        {"name": "Luangwa", "code": "0504"},
+        {"name": "Lusaka", "code": "0505"},
+        {"name": "Rufunsa", "code": "0506"}
+      ]
+    },
+    {
+      "name": "Muchinga Province",
+      "code": "06",
+      "districts": [
+        {"name": "Chinsali", "code": "0601"},
+        {"name": "Isoka", "code": "0602"},
+        {"name": "Kanchibiya", "code": "0603"},
+        {"name": "Lavushimanda", "code": "0604"},
+        {"name": "Mafinga", "code": "0605"},
+        {"name": "Mpika", "code": "0606"},
+        {"name": "Nakonde", "code": "0607"},
+        {"name": "Shiwang'andu", "code": "0608"}
+      ]
+    },
+    {
+      "name": "Northern Province",
+      "code": "07",
+      "districts": [
+        {"name": "Chilubi", "code": "0701"},
+        {"name": "Kaputa", "code": "0702"},
+        {"name": "Kasama", "code": "0703"},
+        {"name": "Lunte", "code": "0704"},
+        {"name": "Lupososhi", "code": "0705"},
+        {"name": "Luwingu", "code": "0706"},
+        {"name": "Mbala", "code": "0707"},
+        {"name": "Mporokoso", "code": "0708"},
+        {"name": "Mpulungu", "code": "0709"},
+        {"name": "Mungwi", "code": "0710"},
+        {"name": "Nsama", "code": "0711"},
+        {"name": "Senga", "code": "0712"}
+      ]
+    },
+    {
+      "name": "North-Western Province",
+      "code": "08",
+      "districts": [
+        {"name": "Chavuma", "code": "0801"},
+        {"name": "Ikelenge", "code": "0802"},
+        {"name": "Kabompo", "code": "0803"},
+        {"name": "Kasempa", "code": "0804"},
+        {"name": "Kalumbila", "code": "0805"},
+        {"name": "Manyinga", "code": "0806"},
+        {"name": "Mufumbwe", "code": "0807"},
+        {"name": "Mushindamo", "code": "0808"},
+        {"name": "Mwinilunga", "code": "0809"},
+        {"name": "Solwezi", "code": "0810"},
+        {"name": "Zambezi", "code": "0811"}
+      ]
+    },
+    {
+      "name": "Southern Province",
+      "code": "09",
+      "districts": [
+        {"name": "Chikankata", "code": "0901"},
+        {"name": "Chirundu", "code": "0902"},
+        {"name": "Choma", "code": "0903"},
+        {"name": "Gwembe", "code": "0904"},
+        {"name": "Itezhi-Tezhi", "code": "0905"},
+        {"name": "Kalomo", "code": "0906"},
+        {"name": "Kazungula", "code": "0907"},
+        {"name": "Livingstone", "code": "0908"},
+        {"name": "Mazabuka", "code": "0909"},
+        {"name": "Monze", "code": "0910"},
+        {"name": "Namwala", "code": "0911"},
+        {"name": "Pemba", "code": "0912"},
+        {"name": "Siavonga", "code": "0913"},
+        {"name": "Sinazongwe", "code": "0914"},
+        {"name": "Zimba", "code": "0915"}
+      ]
+    },
+    {
+      "name": "Western Province",
+      "code": "10",
+      "districts": [
+        {"name": "Kalabo", "code": "1001"},
+        {"name": "Kaoma", "code": "1002"},
+        {"name": "Limulunga", "code": "1003"},
+        {"name": "Luampa", "code": "1004"},
+        {"name": "Lukulu", "code": "1005"},
+        {"name": "Mitete", "code": "1006"},
+        {"name": "Mongu", "code": "1007"},
+        {"name": "Mulobezi", "code": "1008"},
+        {"name": "Mwandi", "code": "1009"},
+        {"name": "Nalolo", "code": "1010"},
+        {"name": "Nkeyema", "code": "1011"},
+        {"name": "Senanga", "code": "1012"},
+        {"name": "Sesheke", "code": "1013"},
+        {"name": "Shang'ombo", "code": "1014"},
+        {"name": "Sikongo", "code": "1015"},
+        {"name": "Sioma", "code": "1016"}
       ]
     }
   ]

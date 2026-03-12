@@ -20,7 +20,7 @@ It aims to make Zambia’s administrative data easily accessible for developers.
 
 ### Install
 ```bash
-git clone https://github.com/yourusername/openzam-api.git
+git clone https://github.com/melospot/openzam-api.git
 cd openzam-api
 go mod tidy
 go run main.go
