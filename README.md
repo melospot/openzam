@@ -13,6 +13,13 @@ It aims to make Zambia’s administrative data easily accessible for developers.
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether it's adding a new feature, fixing a bug, or improving documentation, your help is appreciated.
+Please read our [Contributing Guidelines](CONTRIBUTING.md) to understand how you can help. Also, please refer to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
